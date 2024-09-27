@@ -32,3 +32,5 @@ python版本：3.9.x
 
 ## 访问地址
 `http://localhost:3001/public`
+
+如果有错误请搭好梯子 重新下载
